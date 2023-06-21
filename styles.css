@@ -1,0 +1,78 @@
+body {
+  font-family: "Avenir Next";
+  margin: 0;
+}
+
+header {
+  background-color: #efab0c;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 20px;
+  font-family: "Train One", cursive;
+  color: #fff;
+}
+
+.header-list li {
+  list-style: none;
+  float: left;
+  padding: 30px 20px;
+  font-size: 26px;
+}
+
+.header-list a {
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.Profile img {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  padding-top: 16px;
+  padding-bottom: 24px;
+  margin: 0 auto;
+  display: block;
+}
+
+p {
+  text-align: center;
+}
+
+.skill {
+  background-color: #f1cb71;
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
+
+.skill ul {
+  width: fit-content;
+  margin: auto;
+}
+
+.Portfolio {
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
+
+.Portfolio ul {
+  margin: auto;
+  width: fit-content;
+}
+
+footer {
+  background-color: #c38c0b;
+}
